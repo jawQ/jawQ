@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=const JawQ = new FullStackDeveloper(); // 🧑‍💻 React | Vue  | Node | Go; 🤖 Building AI-powered products; 📚 Always learning →" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=const+JawQ+%3D+new+FullStackDeveloper()%3B;React+%7C+Vue+%7C+Node.js+%7C+Python;%F0%9F%A4%96+Building+AI-powered+products;%F0%9F%93%9A+Always+learning+%E2%86%92" alt="Typing SVG"/>
 </p>
 
 <p align="center">
