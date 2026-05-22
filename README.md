@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jawQ&theme=tokyonight&hide_border=true" />
+  <img src="github-metrics.svg" />
 </div>
 
 <br/>
