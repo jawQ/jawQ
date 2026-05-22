@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=jawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20Builder%20%7C%20Frontend%20Craftsman&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=jawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20Builder%20%7C%20Frontend%20Engineer&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
 </div>
 
 <p align="center">
@@ -19,7 +19,11 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,nodejs,python,pytorch,flutter,postgres,mongodb,redis,docker,git&perline=7" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,flutter&perline=7" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,pytorch,tensorflow,aws,docker&perline=7" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode,linux&perline=7" />
+  </a>
 </p>
 
 <br/>
@@ -36,7 +40,7 @@
 
 <p align="center">
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawQ&theme=2077"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jawQ&theme=2077"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawQ&theme=2077"/>
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawQ&theme=2077&utcOffset=8"/>
 </p>
 
