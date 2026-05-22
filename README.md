@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=JawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=🧑‍💻 Software Engineer&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jawQ/jawQ/main/banner.svg" width="100%"/>
 </div>
 
 <p align="center">

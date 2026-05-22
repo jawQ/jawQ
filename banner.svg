@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#09090e"/>
+      <stop offset="100%" stop-color="#0d0c1a"/>
+    </linearGradient>
+
+    <!-- Top accent bar -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4338ca"/>
+      <stop offset="45%"  stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+
+    <!-- Name text gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#f1f5f9"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
+    </linearGradient>
+
+    <!-- Dot fade mask (left transparent → right opaque) -->
+    <linearGradient id="dotFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#09090e" stop-opacity="1"/>
+      <stop offset="60%"  stop-color="#09090e" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Dot matrix pattern -->
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="0.85" fill="#818cf8" fill-opacity="0.38"/>
+    </pattern>
+
+    <!-- Ultra-subtle grid -->
+    <pattern id="grid" x="0" y="0" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0L0 0 0 48" fill="none" stroke="#e2e8f0" stroke-width="0.35" stroke-opacity="0.04"/>
+    </pattern>
+
+    <!-- Soft glow filter for name -->
+    <filter id="nameGlow" x="-8%" y="-35%" width="116%" height="170%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Accent glow for circles -->
+    <filter id="ringGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- ─── Base ─── -->
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+
+  <!-- ─── Dot matrix (right half) ─── -->
+  <rect x="640" y="0" width="560" height="240" fill="url(#dots)"/>
+  <rect x="640" y="0" width="280" height="240" fill="url(#dotFade)"/>
+
+  <!-- ─── Top accent bar ─── -->
+  <rect width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- ─── Architectural scope (right decoration) ─── -->
+  <g transform="translate(1040,120)" filter="url(#ringGlow)">
+    <circle r="140" fill="none" stroke="#6366f1" stroke-width="0.55" stroke-opacity="0.14"/>
+    <circle r="98"  fill="none" stroke="#6366f1" stroke-width="0.4"  stroke-opacity="0.11"/>
+    <circle r="56"  fill="none" stroke="#7c3aed" stroke-width="0.4"  stroke-opacity="0.12"/>
+    <circle r="18"  fill="none" stroke="#7c3aed" stroke-width="1.2"  stroke-opacity="0.22"/>
+    <circle r="3"   fill="#7c3aed" fill-opacity="0.35"/>
+    <line x1="-155" y1="0" x2="155" y2="0" stroke="#6366f1" stroke-width="0.4" stroke-opacity="0.1"/>
+    <line x1="0" y1="-155" x2="0" y2="155" stroke="#6366f1" stroke-width="0.4" stroke-opacity="0.1"/>
+    <!-- Tick marks on outer ring -->
+    <line x1="138" y1="0"   x2="143" y2="0"   stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+    <line x1="-138" y1="0"  x2="-143" y2="0"  stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+    <line x1="0"   y1="138" x2="0"   y2="143" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+    <line x1="0"  y1="-138" x2="0"  y2="-143" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+  </g>
+
+  <!-- ─── Vertical separator ─── -->
+  <line x1="800" y1="44" x2="800" y2="196"
+        stroke="#6366f1" stroke-width="0.7" stroke-opacity="0.2"/>
+
+  <!-- ─── Left content ─── -->
+
+  <!-- Eyebrow -->
+  <text x="80" y="73"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10"
+    letter-spacing="5"
+    fill="#6366f1"
+    fill-opacity="0.65">// PROFILE</text>
+
+  <!-- Name — glow shadow layer -->
+  <text x="74" y="164"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="110"
+    font-weight="bold"
+    letter-spacing="2"
+    fill="#6366f1"
+    fill-opacity="0.05"
+    filter="url(#nameGlow)">JawQ</text>
+
+  <!-- Name — main -->
+  <text x="76" y="162"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="110"
+    font-weight="bold"
+    letter-spacing="2"
+    fill="url(#nameGrad)">JawQ</text>
+
+  <!-- Thin rule -->
+  <line x1="78" y1="178" x2="600" y2="178"
+        stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.1"/>
+
+  <!-- Subtitle -->
+  <text x="80" y="203"
+    font-family="'Courier New', Courier, monospace"
+    font-size="12.5"
+    letter-spacing="5"
+    fill="#475569">&#x1F9D1;&#x200D;&#x1F4BB; Software Engineer</text>
+
+  <!-- Blinking cursor -->
+  <rect x="352" y="190" width="7" height="13" fill="#7c3aed" fill-opacity="0.75">
+    <animate attributeName="fill-opacity" values="0.75;0;0.75" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ─── Bottom accent ─── -->
+  <rect y="237" width="1200" height="2" fill="url(#accent)" opacity="0.22"/>
+
+</svg>
