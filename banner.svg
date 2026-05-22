@@ -94,8 +94,8 @@
     font-family="'Courier New', Courier, monospace"
     font-size="10"
     letter-spacing="5"
-    fill="#6366f1"
-    fill-opacity="0.65">// PROFILE</text>
+    fill="#a5b4fc"
+    fill-opacity="1">// PROFILE</text>
 
   <!-- Name — glow shadow layer -->
   <text x="74" y="164"
@@ -124,7 +124,7 @@
     font-family="'Courier New', Courier, monospace"
     font-size="12.5"
     letter-spacing="5"
-    fill="#475569">&#x1F9D1;&#x200D;&#x1F4BB; Software Engineer</text>
+    fill="#94a3b8">&#x1F9D1;&#x200D;&#x1F4BB; Software Engineer</text>
 
   <!-- Blinking cursor -->
   <rect x="352" y="190" width="7" height="13" fill="#7c3aed" fill-opacity="0.75">
