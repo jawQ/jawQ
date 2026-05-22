@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=jawQ&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Frontend%20%7C%20AI%20%7C%20Mobile&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=220&section=header&text=jawQ&fontSize=90&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Frontend%20%7C%20AI%20%7C%20Mobile&descAlignY=60&descSize=22" width="100%"/>
 </div>
 
 <div align="center">
@@ -26,13 +26,15 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 Trophies
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jawQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawQ&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jawQ&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true&margin-w=4" />
 </div>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jawQ&theme=tokyonight&hide_border=true" />
@@ -47,9 +49,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawQ/jawQ/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawQ/jawQ/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
