@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=jawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20Builder%20%7C%20Frontend%20Engineer&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=JawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=🧑‍💻 Software Engineer&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=const+jawQ+%3D+new+FullStackDeveloper()%3B+%2F%2F+%E2%9C%93;React+%7C+Vue+%7C+Next.js+%7C+Node.js+%7C+Python;Building+AI-powered+products+%F0%9F%A4%96;Let%27s+build+something+remarkable+%E2%86%92" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=const JawQ = new FullStackDeveloper(); // 🧑‍💻 React | Vue  | Node | Go; 🤖 Building AI-powered products; 📚 Always learning →" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,flutter&perline=7" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,pytorch,tensorflow,aws,docker&perline=7" /><br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,ts,js,coffeescript,electron,nodejs,go,python,apple,bash,ai,docker,mongodb,redis,jenkins,linux&perline=6" /><br/>
   </a>
 </p>
 
@@ -40,7 +38,6 @@
 
 <p align="center">
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawQ&theme=2077"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawQ&theme=2077"/>
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawQ&theme=2077&utcOffset=8"/>
 </p>
 
