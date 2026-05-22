@@ -1,44 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=220&section=header&text=jawQ&fontSize=90&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Frontend%20%7C%20AI%20%7C%20Mobile&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=jawQ&fontSize=90&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%7C%20AI%20Builder%20%7C%20Frontend%20Craftsman&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+matter;Full-Stack+%7C+Frontend+%7C+AI+%7C+Mobile;Always+learning%2C+always+shipping;AI-Native+Development+%F0%9F%A4%96" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=const+jawQ+%3D+new+FullStackDeveloper()%3B+%2F%2F+%E2%9C%93;React+%7C+Vue+%7C+Next.js+%7C+Node.js+%7C+Python;Building+AI-powered+products+%F0%9F%A4%96;Let%27s+build+something+remarkable+%E2%86%92" alt="Typing SVG"/>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-Power_User-6B46C1?style=flat-square&logo=anthropic&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jawQ&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AI_Native-Developer-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-Building-a78bfa?style=for-the-badge&labelColor=0f0c29" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-4CAF50?style=flat-square&logo=github&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/AI_NATIVE-Developer-10b981?style=for-the-badge&labelColor=0f0c29" />
+</p>
 
 <br/>
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,nodejs,python,pytorch,flutter,postgres,mongodb,redis,docker,git&perline=7" />
-</div>
+</p>
 
 <br/>
 
-## 🏆 Trophies
+## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawQ&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true&margin-w=4" />
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jawQ&custom_title=Contribution+Activity&bg_color=010409&color=a78bfa&line=7c3aed&point=e2e8f0&area_color=302b63&area=true&hide_border=true"/>
+</p>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="github-metrics.svg" />
-</div>
+<p align="center">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawQ&theme=2077"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jawQ&theme=2077"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawQ&theme=2077&utcOffset=8"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawQ&theme=2077"/>
+</p>
+
+<br/>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jawQ&theme=darkhub&no-frame=true&row=1&column=6&no-bg=true&margin-w=8" />
+</p>
 
 <br/>
 
